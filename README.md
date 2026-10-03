@@ -1,0 +1,2 @@
+# Dinamic-Island
+For Samsung 
